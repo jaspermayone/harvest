@@ -13,6 +13,6 @@
     "@astrojs/node": "^6.0.3",
     "@astrojs/vercel": "^5.1.0",
     "airtable": "^0.12.2",
-    "astro": "^3.4.0"
+    "astro": "^3.6.5"
   }
 }
